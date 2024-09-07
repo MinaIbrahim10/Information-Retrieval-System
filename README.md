@@ -10,6 +10,7 @@ information-retrieval-system/
 │   └── information_retrieval_system.ipynb
 ├── requirements.txt
 └── README.md
+└── LICENSE.md 
 ```
 
 
