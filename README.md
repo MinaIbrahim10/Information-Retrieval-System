@@ -14,6 +14,7 @@ information-retrieval-system/
 |
 ├── README.md
 
+
 ## Notebook
 
 ### `information_retrieval_system.ipynb`
@@ -49,7 +50,7 @@ This notebook showcases the implementation of the information retrieval system. 
 1. Clone the Repository:
 
     ```bash
-    git clone https://github.com/yourusername/information-retrieval-system.git
+    git clone https://github.com/MinaIbrahim10/information-retrieval-system.git
     ```
 
 2. Navigate to the Repository:
