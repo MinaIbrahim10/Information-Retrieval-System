@@ -4,13 +4,13 @@
 This repository contains an information retrieval system implemented through a Jupyter notebook. The system demonstrates web crawling, text preprocessing, document indexing, and various search techniques including cosine similarity and Boolean search. Additionally, it features a spelling correction mechanism for more robust query handling.
 
 ## Repository Structure
-
+```bash
 information-retrieval-system/
 ├── notebooks/
 │   └── information_retrieval_system.ipynb
 ├── requirements.txt
 └── README.md
-
+```
 
 
 ## Notebook
