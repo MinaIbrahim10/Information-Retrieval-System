@@ -22,8 +22,8 @@ This notebook showcases the implementation of the information retrieval system. 
 1. **Crawler**: Fetches and crawls web pages to collect data.
 2. **Preprocessor**: Cleans and preprocesses text data from the crawled pages.
 3. **Indexer**: Creates an inverted index and positional index for the documents.
-4. **Searcher1**: Implements search functionalities including cosine similarity and Boolean search.
-5. **TolerantRetrieval1**: Provides spelling correction for queries using edit distance.
+4. **Searcher**: Implements search functionalities including cosine similarity and Boolean search.
+5. **TolerantRetrieval**: Provides spelling correction for queries using edit distance.
 
 ### Features
 
