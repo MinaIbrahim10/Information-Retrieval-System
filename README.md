@@ -75,6 +75,10 @@ This notebook showcases the implementation of the information retrieval system. 
 
 2. Run the cells in the `information_retrieval_system.ipynb` notebook to execute the information retrieval system.
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
 ## Contributing
 
 Contributions are welcome! Please follow the standard GitHub workflow for contributions:
@@ -83,3 +87,7 @@ Contributions are welcome! Please follow the standard GitHub workflow for contri
 2. Create a new branch
 3. Make your changes
 4. Submit a pull request
+
+## Contact
+
+For any questions or feedback, you can reach me at minaibrahim190@gmail.com.
