@@ -6,13 +6,11 @@ This repository contains an information retrieval system implemented through a J
 ## Repository Structure
 
 information-retrieval-system/
-|
 ├── notebooks/
-|   └── information_retrieval_system.ipynb
-|
+│   └── information_retrieval_system.ipynb
 ├── requirements.txt
-|
-├── README.md
+└── README.md
+
 
 
 ## Notebook
